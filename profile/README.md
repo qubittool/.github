@@ -19,12 +19,12 @@ All processing happens in your browser — your data never leaves your device.
 
 | Category | Top Tools | Try Now |
 |----------|-----------|---------|
-| ⚡ **JSON** | [JSON Formatter](https://qubittool.com/tools/json-formatter), [JSON Diff](https://qubittool.com/tools/json-diff), [JSON to CSV](https://qubittool.com/tools/json-to-csv) | [Open →](https://qubittool.com/tools/json-formatter) |
-| 🖼️ **Image** | [Image Compressor](https://qubittool.com/tools/image-compressor), [Image Resizer](https://qubittool.com/tools/image-resizer), [PNG to JPG](https://qubittool.com/tools/png-to-jpg) | [Open →](https://qubittool.com/tools/image-compressor) |
-| 📄 **PDF** | [PDF Merger](https://qubittool.com/tools/pdf-merger), [PDF Compressor](https://qubittool.com/tools/pdf-compressor), [PDF to JPG](https://qubittool.com/tools/pdf-to-jpg) | [Open →](https://qubittool.com/tools/pdf-merger) |
-| 📝 **Text & Code** | [Regex Tester](https://qubittool.com/tools/regex-tester), [SQL Formatter](https://qubittool.com/tools/sql-formatter), [Code Diff](https://qubittool.com/tools/code-diff) | [Open →](https://qubittool.com/tools/regex-tester) |
-| 🧮 **Calculators** | [BMI Calculator](https://qubittool.com/tools/bmi-calculator), [Age Calculator](https://qubittool.com/tools/age-calculator), [Loan Calculator](https://qubittool.com/tools/loan-calculator) | [Open →](https://qubittool.com/tools/bmi-calculator) |
-| 🤖 **AI Directory** | [AI Tools](https://qubittool.com/tools/ai-directory), MCP Servers, AI Agents | [Open →](https://qubittool.com/tools/ai-directory) |
+| ⚡ **JSON** | [JSON Formatter](https://qubittool.com/tools/json-formatter), [JSON Diff](https://qubittool.com/tools/json-diff), [JSON to CSV](https://qubittool.com/tools/json-to-csv) | [Open →](https://qubittool.com/category/json) |
+| 🖼️ **Image** | [Image Compressor](https://qubittool.com/tools/image-compressor), [Image Resizer](https://qubittool.com/tools/image-resizer), [PNG to JPG](https://qubittool.com/tools/png-to-jpg) | [Open →](https://qubittool.com/category/image) |
+| 📄 **PDF** | [PDF Merger](https://qubittool.com/tools/pdf-merger), [PDF Compressor](https://qubittool.com/tools/pdf-compressor), [PDF to JPG](https://qubittool.com/tools/pdf-to-jpg) | [Open →](https://qubittool.com/category/pdf) |
+| 📝 **Text & Code** | [Regex Tester](https://qubittool.com/tools/regex-tester), [SQL Formatter](https://qubittool.com/tools/sql-formatter), [Code Diff](https://qubittool.com/tools/code-diff) | [Open →](https://qubittool.com/category/text) |
+| 🧮 **Calculators** | [BMI Calculator](https://qubittool.com/tools/bmi-calculator), [Age Calculator](https://qubittool.com/tools/age-calculator), [Loan Calculator](https://qubittool.com/tools/loan-calculator) | [Open →](https://qubittool.com/category/calculators) |
+| 🤖 **AI Directory** | [AI Tools](https://qubittool.com/tools/ai-directory), MCP Servers, AI Agents | [Open →](https://qubittool.com/category/ai) |
 
 ### 🧠 Fun Personality Quizzes
 
