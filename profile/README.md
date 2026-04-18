@@ -24,7 +24,7 @@ All processing happens in your browser — your data never leaves your device.
 | 📄 **PDF** | [PDF Merger](https://qubittool.com/tools/pdf-merger), [PDF Compressor](https://qubittool.com/tools/pdf-compressor), [PDF to JPG](https://qubittool.com/tools/pdf-to-jpg) | [Open →](https://qubittool.com/category/pdf) |
 | 📝 **Text & Code** | [Regex Tester](https://qubittool.com/tools/regex-tester), [SQL Formatter](https://qubittool.com/tools/sql-formatter), [Code Diff](https://qubittool.com/tools/code-diff) | [Open →](https://qubittool.com/category/text) |
 | 🧮 **Calculators** | [BMI Calculator](https://qubittool.com/tools/bmi-calculator), [Age Calculator](https://qubittool.com/tools/age-calculator), [Loan Calculator](https://qubittool.com/tools/loan-calculator) | [Open →](https://qubittool.com/category/calculators) |
-| 🤖 **AI Directory** | [AI Tools](https://qubittool.com/tools/ai-directory), MCP Servers, AI Agents | [Open →](https://qubittool.com/category/ai) |
+| 🤖 **AI Directory** | [AI Tools](https://qubittool.com/tools/ai-directory), [MCP Servers](https://qubittool.com/tools/ai-directory), [AI Agents](https://qubittool.com/tools/ai-directory) | [Open →](https://qubittool.com/category/ai) |
 
 ### 🧠 Fun Personality Quizzes
 
